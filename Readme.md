@@ -1,4 +1,4 @@
-# Sobre a API
+# 🔹 Sobre a API
 
 - Esta API armazena os dados no MongoDB Atlas, então você deve configura-lo devidamente para usar as corretamente
 
